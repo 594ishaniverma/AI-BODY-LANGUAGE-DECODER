@@ -1,0 +1,22 @@
+# Python & Virtual Environments
+__pycache__/
+venv/
+env/
+.venv/
+anaconda3/
+
+# ML Models and Data (Too large for GitHub)
+*.csv
+*.pkl
+*.joblib
+*.h5
+coords.csv
+
+# Video/Image captures
+*.mp4
+*.avi
+*.jpg
+
+# OS Files
+.DS_Store
+Thumbs.db
